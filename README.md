@@ -1868,7 +1868,7 @@ You're never really done.
 
 - ### Go
     - [ ] Videos:
-        - [ ] [Why Learn Go?](https://www.youtube.com/watch?v=FTl0tl9BGdc)
+        - [x] [Why Learn Go?](https://www.youtube.com/watch?v=FTl0tl9BGdc)
         - [ ] [Go Programming](https://www.youtube.com/watch?v=CF9S4QZuV30)
         - [ ] [A Tour of Go](https://www.youtube.com/watch?v=ytEkHepK08c)
     - [ ] Books:
